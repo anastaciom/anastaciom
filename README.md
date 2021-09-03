@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Anastacio! 👋👨‍💻
 
--📚 Atualmente estou estudando Javascript e Firebase  
+-📚 Atualmente estou estudando Git, Javascript e Firebase  
 ##
 
 <div>
@@ -13,10 +13,13 @@
   
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: inline_block">
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+    
 </div>
   
   ##
