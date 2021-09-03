@@ -1,4 +1,6 @@
-### Olá, eu sou o Anastacio! 👋
+##
+
+### Olá, eu sou o Anastacio! 👋👨‍💻
 
 -📚 Atualmente estou estudando Javascript e Firebase  
 ##
@@ -23,4 +25,4 @@
   <a href="https://instagram.com/_menezess11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
   
-  
+##  
