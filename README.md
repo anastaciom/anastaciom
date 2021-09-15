@@ -17,8 +17,10 @@
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+  
     
 </div>
   
