@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Anastacio! 👋👨‍💻
 
--📚 Atualmente estou estudando Git, Javascript e Firebase  
+-📚 Atualmente estou estudando Node.js 
 ##
 
 <div>
