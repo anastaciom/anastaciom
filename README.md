@@ -2,7 +2,7 @@
 
 ### Hi, I'm Anastacio!! 👋👨‍💻
 
--📚 I am currently studying React
+-📚 I am currently studying React.js
 ##
 
 <div>
@@ -22,8 +22,6 @@
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  
-    
 </div>
   
   ##
