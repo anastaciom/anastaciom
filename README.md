@@ -20,6 +20,8 @@
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   
     
 </div>
