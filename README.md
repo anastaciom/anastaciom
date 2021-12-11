@@ -2,7 +2,7 @@
 
 ### Hi, I'm Anastacio!! 👋👨‍💻
 
--📚 I am currently studying Node.js and MongoDB
+-📚 I am currently studying React
 ##
 
 <div>
