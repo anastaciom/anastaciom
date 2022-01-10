@@ -1,8 +1,8 @@
 ##
 
-### Hi, I'm Anastacio!! 👋👨‍💻
+### Olá, eu sou o Anastacio!! 👋👨‍💻
 
--📚 I am currently studying React.js
+-📚 Atualmente estou estudando React.js
 ##
 
 <div>
