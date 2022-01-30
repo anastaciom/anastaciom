@@ -1,6 +1,6 @@
 ##
 
-### Hello, I'm Anastacio!! 👋👨‍💻
+### 👋 Hello, I'm Anastacio!! 👨‍💻
 
 -📚 I'm currently studying React.js
 ##
