@@ -34,11 +34,7 @@
 
   
   ##
-    
-  <p align="center">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anastaciom&theme=nord"/><br>
-</p>
-  
+
 <div align="center">
   <a href="https://github.com/anastaciom">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anastaciom&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
