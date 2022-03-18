@@ -2,7 +2,7 @@
 
 ### <div align="center">👋 Hello, I'm Anastacio!! 👨‍💻 </div>
 
- <div align="center">📚 I'm currently studying React.js</div>
+ <div align="center">📚 I'm currently studying Next.js and Docker</div>
  
 ##
 
