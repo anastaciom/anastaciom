@@ -1,10 +1,10 @@
 
 
-### <div align="center">👋 Hello, I'm Anastacio!! 👨‍💻 </div>
+ ### <div align="center">👋 Hello, I'm Anastacio!! 👨‍💻 </div>
 
  <div align="center">📚 I'm currently studying Next.js and Docker</div>
  
-##
+ ##
 
 <div align="center"> 
   <a href="https://instagram.com/_menezess11" target="_blank">
@@ -12,8 +12,11 @@
   </a> 
    <a href="https://www.linkedin.com/in/anastacio-menezes-teixeira/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
 </div>
+
+ <div align="center" style="display: inline_block"><img align="center"  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></div>
+
 
 ##
 
