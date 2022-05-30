@@ -23,19 +23,19 @@
 
 
 <div align="center" style="display: inline_block">
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-   <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
- <img align="center"  height="45" width="45" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"/>
- 
-  <img align="center" alt="reactjs" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="firebase"/>
+    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electronjs"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
+    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
+    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
 </div>
 
 
