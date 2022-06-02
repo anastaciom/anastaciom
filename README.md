@@ -2,8 +2,6 @@
 
  ### <div align="center">👋 Hello, I'm Anastacio!! 👨‍💻 </div>
 
- <div align="center">📚 I'm currently studying Next.js, React Native and Docker</div>
- 
  ##
 
 <div align="center"> 
