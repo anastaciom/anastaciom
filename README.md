@@ -27,7 +27,6 @@
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="firebase"/>
     <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electronjs"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
-    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs"/>
       <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
