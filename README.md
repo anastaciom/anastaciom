@@ -32,6 +32,8 @@
       <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
     <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>
+    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
 </div>
 
 
