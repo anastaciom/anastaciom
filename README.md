@@ -18,22 +18,22 @@
 
 
 <div align="center" style="display: inline_block">
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
-     <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="chakra-ui"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="firebase"/>
-    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electronjs"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs"/>
-      <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
-    <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>
-    <img align="center"  height="45" width="45" src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
+     <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
+     <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="chakra-ui"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="firebase"/>
+    <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electronjs"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs"/>
+      <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
+    <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>
+    <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
 </div>
 
 
