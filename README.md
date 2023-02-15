@@ -48,7 +48,3 @@
 
 ##  
 
-  
-  <img src= "https://activity-graph.herokuapp.com/graph?username=anastaciom&custom_title=Anastacio%20Menezes&theme=nord">
-  
-
