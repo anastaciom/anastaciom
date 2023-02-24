@@ -23,6 +23,8 @@
     <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
      <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/>
     <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
+     <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material-ui"/>
+      <img align="center"  height="40" width="40" src="https://styled-components.com/logo.png" alt="styled-components"/>
      <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="chakra-ui"/>
     <img align="center"  height="40" width="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="firebase"/>
     <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electronjs"/>
