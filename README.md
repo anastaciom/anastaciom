@@ -15,14 +15,21 @@
 
 ##
 
-
-
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,materialui,styledcomponents,firebase,electron,nodejs,mongodb,nextjs,typescript,react,dart,flutter,postgres,redux,vscode,prisma,express,docker,jest,netlify,postman" /> 
+    <img src="https://skillicons.dev/icons?i=git,vscode,netlify,postman,vercel,github" /> 
   </a>
 </p>
-
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,postgres,prisma,express,docker,jest,redis" /> 
+  </a>
+</p>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,materialui,styledcomponents,electron,nextjs,typescript,react,dart,flutter,redux" /> 
+  </a>
+</p>
 
   ##
 
