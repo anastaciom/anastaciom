@@ -30,17 +30,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,materialui,styledcomponents,electron,nextjs,typescript,react,dart,flutter,redux,vite" /> 
   </a>
 </p>
-
-  ##
-
-<div align="center">
-  <a href="https://github.com/anastaciom">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anastaciom&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastaciom&layout=compact&langs_count=7&theme=nord"/>
-   
-
-   
-</div>
-
-
- 
